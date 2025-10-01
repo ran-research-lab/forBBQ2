@@ -1,0 +1,12 @@
+{
+    "horasAntes": 4,
+    "personasLleganPorHora": 100,
+    "tiempoCash": 10,
+    "tiempoATH":5,
+    "tiempoCredito": 8,
+    "porcientoCash": 50,
+    "porcientoATH": 30,
+    "porcientoTarjeta": 20,
+    "totalTaquillas": 10000,
+    "estaciones": 8
+}
